@@ -1,0 +1,5 @@
+outs:
+- md5: c5d3bb68c6b4505943c884e373313980
+  size: 387649
+  hash: md5
+  path: apple_quality.csv
